@@ -27,6 +27,7 @@
   </dependencies>
   
   <build>
+	  <!-- this tag will change the jar file name -->
 	  <finalName>Maven-app</finalName>
   </build>
   
